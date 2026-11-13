@@ -1,0 +1,5 @@
+# Objetos y ejecutables
+*.o
+*.exe
+artemis
+test_fisica
